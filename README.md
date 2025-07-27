@@ -1,7 +1,6 @@
 # Root Locus and Time Response Analysis using MATLAB
 
-This repository contains MATLAB code for analyzing the **Root Locus** and **Time Response** of various control system transfer functions, based on the Lab Manual from PDPM IIITDM Jabalpur.
-
+This repository contains MATLAB code for analyzing the **Root Locus** and **Time Response** of various control system transfer functions.
 ## 📌 Objective
 
 To study the root locus method and analyze the time response of systems using MATLAB, and observe how adding poles and zeros affects system behavior.
