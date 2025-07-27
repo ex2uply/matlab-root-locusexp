@@ -21,52 +21,52 @@ To study the root locus method and analyze the time response of systems using MA
 
 ### 1. **TF1:** No pole at origin
 
-\[ G(s)H(s) = \frac{k}{(s+4)(s+20)} \]
+\[ G(s)H(s) = {k}{(s+4)(s+20)} \]
 
 - Root locus and step response for different values of k (e.g., 1, 10, 100).
 - System is always stable.
 
-![k/s^2](./image.png)
+![k/s^2](./images/image.png)
 
-![alt text](./image-1.png)
+![alt text](./images/image-1.png)
 
-![alt text](./image-2.png)
+![alt text](./images/image-2.png)
 
-![alt text](./image-3.png)
+![alt text](./images/image-3.png)
 
 ---
 
 ### 2. **TF2:** Pole added at origin
 
-\[ G(s)H(s) = \frac{k}{s(s+4)(s+20)} \]
+\[ G(s)H(s) = {k}{s(s+4)(s+20)} \]
 
 - Added integrator (type 1 system).
 - Stability depends on range of \(k\).
 
-![alt text](./image-4.png)
+![alt text](./images/image-4.png)
 
-![alt text](./image-5.png)
+![alt text](./images/image-5.png)
 
-![alt text](./image-6.png)
+![alt text](./images/image-6.png)
 
-![alt text](./image-7.png)
+![alt text](./images/image-7.png)
 
 ---
 
 ### 3. **TF3:** Zero added at -10
 
-\[ G(s)H(s) = \frac{k(s+10)}{(s+4)(s+20)} \]
+\[ G(s)H(s) = {k(s+10)}{(s+4)(s+20)} \]
 
 - Improves damping and response speed.
 - System becomes more stable.
 
-![alt text](./image-8.png)
+![alt text](./images/image-8.png)
 
-![alt text](./image-9.png)
+![alt text](./images/image-9.png)
 
-![alt text](./image-10.png)
+![alt text](./images/image-10.png)
 
-![alt text](./image-11.png)
+![alt text](./images/image-11.png)
 
 ---
 
