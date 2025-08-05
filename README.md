@@ -73,6 +73,9 @@ impact the **stability**, **speed**, and **damping** of a system.
 - Advantage: **zero steady-state error** for step input.
 - Drawback: May become **oscillatory or unstable**.
 
+
+<img width="700" height="656" alt="image" src="https://github.com/user-attachments/assets/24fc71f3-8342-4e18-9203-c2161add52fa" />
+
 ---
 
 ### ✅ **TF3: \( G(s)H(s) = \frac{k(s+10)}{(s+4)(s+20)} \)**
@@ -94,6 +97,9 @@ impact the **stability**, **speed**, and **damping** of a system.
 **Interpretation**:
 - Adding a **left-half-plane zero** improves transient response.
 - Common in lead compensator design.
+
+
+<img width="662" height="692" alt="image" src="https://github.com/user-attachments/assets/bbb131e5-528c-424f-98f1-1106afbe3c48" />
 
 ---
 
