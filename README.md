@@ -50,6 +50,9 @@ impact the **stability**, **speed**, and **damping** of a system.
 - No integrator \(\Rightarrow\) **steady-state error exists** for step input.
 - Good reference model.
 
+  <img width="678" height="662" alt="image" src="https://github.com/user-attachments/assets/b9e79e76-a1f4-448f-af04-c5f6e4f875f3" />
+
+
 ---
 
 ### ✅ **TF2: \( G(s)H(s) = \frac{k}{s(s+4)(s+20)} \)**
