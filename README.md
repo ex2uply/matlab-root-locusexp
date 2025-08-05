@@ -25,13 +25,7 @@ To study the root locus method and analyze the time response of systems using MA
 - Root locus and step response for different values of k (e.g., 1, 10, 100).
 - System is always stable.
 
-![k/s^2](./images/image.png)
 
-![alt text](./images/image-1.png)
-
-![alt text](./images/image-2.png)
-
-![alt text](./images/image-3.png)
 
 ---
 
@@ -42,13 +36,7 @@ To study the root locus method and analyze the time response of systems using MA
 - Added integrator (type 1 system).
 - Stability depends on range of \(k\).
 
-![alt text](./images/image-4.png)
 
-![alt text](./images/image-5.png)
-
-![alt text](./images/image-6.png)
-
-![alt text](./images/image-7.png)
 
 ---
 
@@ -59,13 +47,6 @@ To study the root locus method and analyze the time response of systems using MA
 - Improves damping and response speed.
 - System becomes more stable.
 
-![alt text](./images/image-8.png)
-
-![alt text](./images/image-9.png)
-
-![alt text](./images/image-10.png)
-
-![alt text](./images/image-11.png)
 
 ---
 
